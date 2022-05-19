@@ -5505,7 +5505,7 @@ class Countries {
       "alpha_3_code": "PRI",
       "en_short_name": "Puerto Rico",
       "nationality": "Puerto Rican",
-      "dial_code": "+1939",
+      "dial_code": "+1",
       "nameTranslations": {
         "sk": "Portoriko",
         "se": "Puerto Rico",
