@@ -1,3 +1,13 @@
+## [0.7.2]
+* Updated libphonenumber and PhoneNumberToCarrierMapper on Android
+* Removed dependency on libphonenumber
+* Switch from libphonenumber-iOS to PhoneNumberKit on iOS
+* Update libphonenumber.js file
+* Depreciating getNameForNumber in future updates
+
+## [0.7.1]
+* Massive thanks to the community
+
 ## [0.7.0+2]
 * Fixed validator defined with wrong type #207
 * PlatformException thrown when isValidPhoneNumber is passed a 0 or 1 character phoneNumber parameter. #209
