@@ -15,6 +15,7 @@ dependencies:
     git:
       url: https://github.com/natintosh/plugin_libphonenumber.git
       ref: develop
+      path: libphonenumber_plugin
   equatable: ^2.0.5
   collection: ^1.15.0
 
